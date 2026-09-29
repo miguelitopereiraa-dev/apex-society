@@ -1,4 +1,4 @@
-# 🏎️ Apex Society
+# 🏎️ Speed Society
 
 Uma aplicação web interativa desenvolvida para amantes de carros, focada na exibição e navegação de modelos de alto desempenho com uma interface moderna e responsiva.
 
